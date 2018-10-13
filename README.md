@@ -6,12 +6,5 @@ A archive of solutions and thinking for picoCTF 2018, our first CTF.
 * [General Skills](#general-skills)
 * [Reversing](#reversing)
 * [Cryptography](#cryptography)
-* [Web Exploitation](#web-exploitation)
+* [Web Exploitation](https://github.com/WillQi/picoCTF2018-writeup/tree/master/Web%20Exploitation)
 * [Binary Exploitation](#binary-exploitation)
-
-### Forensics
-### General Skills
-### Reversing
-### Cryptography
-### Web Exploitation
-### Binary Exploitation
