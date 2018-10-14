@@ -16,13 +16,13 @@
 
 We are given a file called `table.txt`, so let's open that. We opened files using Visual Studio Code because it had better formatting compared to something like Notepad.
 
-Here is our table:
+Here is our table:  
 
 ![VS Table](../Crypto%20Warmup%201/tablevs.PNG)
 
 We recognized this as Vigenère Cipher. Rather than decode it by hand like the problem suggests, we can use an online decoder. This is easy to decode because we are also given the key, `thisisalilkey`.
 
-Using [this website, Dcode ](https://www.dcode.fr/vigenere-cipher), we can enter in our key and our ciphertext. Then, we are given the text `secretmessage`.
+Using [this website, Dcode](https://www.dcode.fr/vigenere-cipher), we can enter in our key and our ciphertext. Then, we are given the text `secretmessage`.
 
 Now, all we need to do is format it for the flag.
 
