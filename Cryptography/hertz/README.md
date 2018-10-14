@@ -60,6 +60,6 @@ We decided to solve this as if it were a cryptogram. We had experience doing cry
 
 After a while, we realized that the text below the lines were from [War and Peace](http://pythonscraping.com/pages/warandpeace/chapter1.pdf) and were quickly able to finish the cryptogram.
 
-The flag isn't in the default format as the hint says, so we don't need to change anything.
+The flag isn't in the default format as the hint says, so we don't need to change anything. It's found at the top of the message, which decodes into `congrats here is your flag` followed by the flag.
 
 The flag is `substitution_ciphers_are_solvable_fgnvvgndms`

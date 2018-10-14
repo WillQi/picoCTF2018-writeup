@@ -10,7 +10,7 @@
 
 ## Solution
 
-Just like [hertz](../Cryptography/hertz%202), after connecting using netcat, we are given the ciphertext.
+Just like [hertz](../hertz%202), after connecting using netcat, we are given the ciphertext.
 
 `Wro vsknj hpqcb gqi lstyu qmop wro efzx aqd. K nfb'w hoekomo wrku ku usnr fb ofux ypqheot kb Yknq. Kw'u fetquw fu kg K uqem
 oa f ypqheot fepofax! Qjfx, gkbo. Ropo'u wro gefd: yknqNWG{ushuwkwswkqb_nkyropu_fpo_wqq_ofux_mxahqyxhmb}`
