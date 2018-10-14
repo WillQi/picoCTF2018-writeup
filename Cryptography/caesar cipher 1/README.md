@@ -16,6 +16,6 @@ When we open the ciphertext.txt file, we see the encrypted flag `picoCTF{vgefmsa
 
 Since we had enough time, we just did it manually using [this website](https://cryptii.com/pipes/caesar-cipher) by testing each shift. Eventually, we go to a shift of 14 and our decoded flag.
 
-(ALthough, we plan on creating some programs for cryptography for our next CTF!)
+(Although, we plan on creating some programs for cryptography for our next CTF!)
 
 The flag is `picoCTF{justagoodoldcaesarcipherlcolmdsc}`
