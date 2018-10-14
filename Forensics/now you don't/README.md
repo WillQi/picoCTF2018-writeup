@@ -3,7 +3,7 @@
 **Points:** 200
 
 **Description**
-> We heard that there is something hidden in this [picture](,,/nowYouDont.png). Can you find it?
+> We heard that there is something hidden in this [picture](/nowYouDont.png). Can you find it?
 
 **Hints**
 > There is an old saying: if you want to hide the treasure, put it in plain sight. Then no one will see it.
