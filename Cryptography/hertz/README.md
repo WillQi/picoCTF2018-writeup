@@ -12,7 +12,8 @@
 
 After connecting using netcat, we are given the following text.
 
-```-------------------------------------------------------------------------------                                            
+```
+-------------------------------------------------------------------------------                                            
 goqhupmx abub jx koiu fsph - xiwxmjmimjoq_gjdabux_pub_xoscpwsb_fhqcchqlyx                                                  
 -------------------------------------------------------------------------------                                            
 "zbss, dujqgb, xo hbqop pql siggp pub qoz eixm fpyjsk bxmpmbx of mab                                                       
@@ -52,7 +53,8 @@ pql goydspgbqmsk xbpmbl ajyxbsf oq mab xofp.
 "fjuxm of pss, lbpu fujbql, mbss yb aoz koi pub. xbm koiu fujbql'x                                                         
 yjql pm ubxm," xpjl ab zjmaoim psmbujqh ajx moqb, wbqbpma mab                                                              
 dosjmbqbxx pql pffbgmbl xkydpmak of zajga jqljffbubqgb pql bcbq juoqk                                                      
-goisl wb ljxgbuqbl.```
+goisl wb ljxgbuqbl.
+```
 
 We decided to solve this as if it were a cryptogram. We had experience doing cryptograms before, and looked for common words (such as `the` and `and`) and frequent letters. We used [this tool](http://scottbryce.com/cryptograms/) to help us solve it. (Note: This tool uses capital letters by default, remember that your inputted test was lowercase.)
 

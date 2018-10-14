@@ -17,8 +17,6 @@ oa f ypqheot fepofax! Qjfx, gkbo. Ropo'u wro gefd: yknqNWG{ushuwkwswkqb_nkyropu_
 
 We decided to use the same method to solving it as the first one, which was by using [this tool](http://scottbryce.com/cryptograms/) to help us solve it. (Note: This tool uses capital letters by default, remember that your inputted test was lowercase.)
 
-By looking at the format of the text, we know that `yknqNWG` must be `picoCTF`, because `picoCTF{}` is the format of the flag. After substituting in these letters, we can identify the rest of the cryptogram based on common words.
-
-The first sentence also clearly becomes `The quick brown fox jumps over the lazy dog.` which gives us all the letters in the alphabet.
+By looking at the format of the text, we know that `yknqNWG` must be `picoCTF`, because `picoCTF{}` is the format of the flag. After substituting in these letters, we can identify the rest of the cryptogram based on common words. The first sentence also clearly becomes `The quick brown fox jumps over the lazy dog.` which gives us all the letters in the alphabet.
 
 The flag is `picoCTF{substitution_ciphers_are_too_easy_vydbopybvn}`
