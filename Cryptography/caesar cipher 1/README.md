@@ -3,7 +3,7 @@
 **Points:** 150
 
 **Description**
-> This is one of the older ciphers in the books, can you decrypt the [message](../caesar%20cipher%201/ciphertext)? You can find the ciphertext in `/problems/caesar-cipher-1_1_6fbf7a9ce0aac23bab1c37836cc20c3b on the shell server.`
+> This is one of the older ciphers in the books, can you decrypt the [message](ciphertext)? You can find the ciphertext in `/problems/caesar-cipher-1_1_6fbf7a9ce0aac23bab1c37836cc20c3b` on the shell server.
 
 
 **Hints**
