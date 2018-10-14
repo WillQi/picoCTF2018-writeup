@@ -3,7 +3,7 @@
 **Points:** 75
 
 **Description**
-> Crpyto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](../Crypto%20Warmup%201/table.txt) to solve it?.
+> Crpyto can often be done by hand, here's a message you got from a friend, `llkjmlmpadkkc` with the key of `thisisalilkey`. Can you use this [table](table.txt) to solve it?.
 
 
 **Hints**
