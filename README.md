@@ -16,5 +16,6 @@ A archive of our solutions and thinking for picoCTF 2018, our first CTF.
   * [Irish Name Repo](Web%20Exploitation/Irish%20Name%20Repo)
   * [Mr. Robots](Web%20Exploitation/Mr.%20Robots)
   * [No Login](Web%20Exploitation/No%20Login)
+  * [Secret Agent](Web%20Exploitation/Secret%20Agent)
   * [The Vault](Web%20Exploitation/The%20Vault)
 * [Binary Exploitation](Binary%20Exploitation)
