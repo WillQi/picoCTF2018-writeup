@@ -11,6 +11,7 @@ A archive of our solutions and thinking for picoCTF 2018, our first CTF.
   * [Crypto Warmup 2](Cryptography/Crypto%20Warmup%202)
   * [hertz](Cryptography/hertz)
   * [hertz 2](Cryptography/hertz%202)
+  * [rsa-madlibs](Cryptography/rsa-madlibs)
 * [Forensics](Forensics)
   * [Lying Out](Forensics/Lying%20Out)
   * [now you don't](Forensics/now%20you%20don't)
