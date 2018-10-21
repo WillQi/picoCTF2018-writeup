@@ -1,9 +1,9 @@
-# caesar cipher 1
+# caesar cipher 2
 
 **Points:** 250
 
 **Description**
-> Can you help us decrypt this message? We believe it is a form of a caesar cipher. You can find the ciphertext in /problems/caesar-cipher-2_4_23c82ed24f4436e96acc1f9f22dc8799 on the shell server.
+> Can you help us decrypt this [message](ciphertext)? We believe it is a form of a caesar cipher. You can find the ciphertext in /problems/caesar-cipher-2_4_23c82ed24f4436e96acc1f9f22dc8799 on the shell server.
 
 **Hints**
 > You'll have figure out the correct alphabet that was used to encrypt the ciphertext from the ascii character set
