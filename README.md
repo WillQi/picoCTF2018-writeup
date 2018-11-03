@@ -13,6 +13,7 @@ A archive of our solutions and thinking for picoCTF 2018, our first CTF.
   * [hertz](Cryptography/hertz)
   * [hertz 2](Cryptography/hertz%202)
   * [rsa-madlibs](Cryptography/rsa-madlibs)
+  * [Super Safe RSA](Cryptography/Super%20Safe%20RSA)
 * [Forensics](Forensics)
   * [Lying Out](Forensics/Lying%20Out)
   * [now you don't](Forensics/now%20you%20don't)
